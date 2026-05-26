@@ -40,7 +40,7 @@ idea {
 
 plugins {
     idea
-    kotlin("jvm") version "2.1.20"
+    kotlin("jvm") version "2.3.20"
     id("org.jetbrains.intellij.platform.module") version "2.16.0"
     id("org.jetbrains.grammarkit") version "2022.3.2.2"
 
